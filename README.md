@@ -20,3 +20,10 @@
   - `input()` function
   - **[Variables and Data Types](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02)**
   - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02/Practice)**
+
+  **Day 03: Strings**
+  - String slicing
+  - Slicing with skip values
+  - String functions
+  - Escape sequence characters
+  - **[Day 03: Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03)**
