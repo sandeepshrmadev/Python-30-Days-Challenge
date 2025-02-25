@@ -26,4 +26,4 @@
   - Slicing with skip values
   - String functions
   - Escape sequence characters
-  - **[Day 03: Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03)**
+  - **[Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03)**
