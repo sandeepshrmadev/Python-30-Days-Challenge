@@ -21,9 +21,17 @@
   - **[Variables and Data Types](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02)**
   - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02/Practice)**
 
-  **Day 03: Strings**
+- **Day 03: Strings**
   - String slicing
   - Slicing with skip values
   - String functions
   - Escape sequence characters
   - **[Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03/Practice)**
+
+- **Day 04: Lists and Tuples**
+  - List indexing
+  - List methods
+  - Tuples in Python
+  - Tuple methods
+  - **[Lists and Tuples](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day04)**
