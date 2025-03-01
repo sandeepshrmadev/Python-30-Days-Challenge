@@ -21,25 +21,26 @@
   - **[Variables and Data Types](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%202)**
   - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%202/Practice)**
 
-- **Day 03: Strings**
+- **Chapter 3: Strings**
   - String slicing
   - Slicing with skip values
   - String functions
   - Escape sequence characters
-  - **[Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03)**
-  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day03/Practice)**
+  - **[Strings](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%203)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%203/Practice)**
 
-- **Day 04: Lists and Tuples**
+- **Chapter 4: Lists and Tuples**
   - List indexing
   - List methods
   - Tuples in Python
   - Tuple methods
-  - **[Lists and Tuples](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day04)**
-  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day04/Practice)**
+  - **[Lists and Tuples](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%204)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%204/Practice)**
 
-- **Day 05: Dictionary & Sets**
+- **Chapter 5: Dictionary & Sets**
   - Properties of dictionaries
   - Dictionary methods
   - Sets in Python
   - Properties and operations on sets
-  - **[Dictionary & Sets](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day05)**
+  - **[Dictionary & Sets](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205)**
+  - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205/Practice)**
