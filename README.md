@@ -2,14 +2,14 @@
 ![IMG20250224210407](https://github.com/user-attachments/assets/6c94f360-3ac3-4102-93fd-c9cb0e7dc448)
 
 
-- **Day 01: Modules, Comments & pip**
+- **Chapter 1: Modules, Comments & pip**
   - Writing the first Python program
   - Understanding modules
   - Using pip for package management
   - Using Python as a calculator
   - Comments in Python
   - **[Modules, Comments & pip](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day01)**
-  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day01/Practice)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter1/Practice)**
   
 - **Day 02: Variables and Data Types**
   - Defining variables
