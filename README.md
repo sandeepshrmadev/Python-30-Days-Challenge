@@ -8,18 +8,18 @@
   - Using pip for package management
   - Using Python as a calculator
   - Comments in Python
-  - **[Modules, Comments & pip](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day01)**
-  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter1/Practice)**
+  - **[Modules, Comments & pip](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%201)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%201/Practice)**
   
-- **Day 02: Variables and Data Types**
+- **Chapter 2: Variables and Data Types**
   - Defining variables
   - Different data types in Python
   - Rules for choosing an identifier
   - Operators in Python
   - Using `type()` function and typecasting
   - `input()` function
-  - **[Variables and Data Types](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02)**
-  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day02/Practice)**
+  - **[Variables and Data Types](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%202)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%202/Practice)**
 
 - **Day 03: Strings**
   - String slicing
