@@ -36,3 +36,10 @@
   - Tuple methods
   - **[Lists and Tuples](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day04)**
   - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day04/Practice)**
+
+- **Day 05: Dictionary & Sets**
+  - Properties of dictionaries
+  - Dictionary methods
+  - Sets in Python
+  - Properties and operations on sets
+  - **[Dictionary & Sets](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Day05)**
