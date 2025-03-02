@@ -1,3 +1,4 @@
+
 ## Python 30 Days Challenge
 ![IMG20250224210407](https://github.com/user-attachments/assets/6c94f360-3ac3-4102-93fd-c9cb0e7dc448)
 
@@ -44,3 +45,8 @@
   - Properties and operations on sets
   - **[Dictionary & Sets](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205)**
   - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205/Practice)**
+ 
+- **Chapter 6: Conditional Expression**
+  - `if`, `else`, and `elif` statements
+  - Relational and logical operators
+  - **[Conditional Expression](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206)**
