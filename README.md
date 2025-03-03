@@ -50,4 +50,4 @@
   - `if`, `else`, and `elif` statements
   - Relational and logical operators
   - **[Conditional Expression](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206)**
-  - - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206/Practice)**
+  - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206/Practice)**
