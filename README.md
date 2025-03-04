@@ -51,3 +51,11 @@
   - Relational and logical operators
   - **[Conditional Expression](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206)**
   - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206/Practice)**
+
+- **Chapter 7: Loops in Python**
+  - `while` loop
+  - `for` loop
+  - `range()` function
+  - `for` loop with `else`
+  - Break, continue, and pass statements
+  - **[Loops in Python](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%207)**
