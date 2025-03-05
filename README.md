@@ -44,13 +44,13 @@
   - Sets in Python
   - Properties and operations on sets
   - **[Dictionary & Sets](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205)**
-  - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205/Practice)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%205/Practice)**
  
 - **Chapter 6: Conditional Expression**
   - `if`, `else`, and `elif` statements
   - Relational and logical operators
   - **[Conditional Expression](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206)**
-  - **[Practice](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206/Practice)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%206/Practice)**
 
 - **Chapter 7: Loops in Python**
   - `while` loop
@@ -59,3 +59,4 @@
   - `for` loop with `else`
   - Break, continue, and pass statements
   - **[Loops in Python](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%207)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%207/Practice)**
