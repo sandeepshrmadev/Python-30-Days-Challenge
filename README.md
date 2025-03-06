@@ -60,3 +60,9 @@
   - Break, continue, and pass statements
   - **[Loops in Python](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%207)**
   - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%207/Practice)**
+  - 
+- **Chapter 8: Functions & Recursions**
+  - Defining and calling functions
+  - Recursion in Python
+  - **[Functions & Recursions](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%208)**
+  - **[Practice Set](https://github.com/itzsandeepsharma/Python-30-Days-Challenge/tree/main/Chapter%208/Practice)**
