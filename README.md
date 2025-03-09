@@ -64,3 +64,8 @@
   - Recursion in Python  
   - **[Functions & Recursions](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%208)**  
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%208/Practice)**
+
+## Projects
+
+- **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
+  - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
