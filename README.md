@@ -65,6 +65,11 @@
   - **[Functions & Recursions](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%208)**  
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%208/Practice)**
 
+- **Chapter 9: File I/O**
+  - Reading and writing files
+  - Working with directories
+  - **[File I/O](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%209)**
+  
 ## Projects
 
 - **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
