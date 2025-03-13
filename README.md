@@ -74,7 +74,8 @@
 - **Chapter 10: Object-Oriented Programming**
   - Classes and objects
   - Methods and attributes
-  - **[Object-Oriented Programming](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2010)**
+  - **[Object-Oriented Programming](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2010)**
+  - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2010/Practice)**
  
  
 ## Projects
