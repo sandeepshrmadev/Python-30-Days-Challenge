@@ -71,7 +71,12 @@
   - **[File I/O](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%209)**
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%209/Practice)**
   
-  
+- **Chapter 10: Object-Oriented Programming**
+  - Classes and objects
+  - Methods and attributes
+  - **[Object-Oriented Programming](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2010)**
+ 
+ 
 ## Projects
 
 - **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
