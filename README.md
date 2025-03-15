@@ -77,7 +77,12 @@
   - **[Object-Oriented Programming](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2010)**
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2010/Practice)**
  
- 
+- **Chapter 11: Inheritance & More on OOPs**
+  - Inheritance
+  - Polymorphism
+  - Operator overloading
+  - **[Inheritance & More on OOPs](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2011)**
+   
 ## Projects
 
 - **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
