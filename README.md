@@ -82,7 +82,8 @@
   - Polymorphism
   - Operator overloading
   - **[Inheritance & More on OOPs](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2011)**
-   
+  - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2011/Practice)**
+  
 ## Projects
 
 - **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
