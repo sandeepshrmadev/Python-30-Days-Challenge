@@ -83,8 +83,21 @@
   - Operator overloading
   - **[Inheritance & More on OOPs](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2011)**
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2011/Practice)**
+
+- **Chapter 12: Advanced Python 1**
+  - Newly added features in Python
+  - Walrus operator
+  - Advanced type hints
+  - Match case
+  - Dictionary merge & update operators
+  - Exception handling enhancements
+  - Global keyword and enumerate function
+  - List comprehensions
+  - **[Advanced Python 1](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2012)**
+  - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2012/Practice)**
+
   
 ## Projects
 
 - **[Project 1: Snake Water Gun Game](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Project%201)**
-  - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
+- A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
