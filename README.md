@@ -1,5 +1,5 @@
 ## Python 30 Days Challenge
-![IMG20250224210407](https://github.com/user-attachments/assets/6c94f360-3ac3-4102-93fd-c9cb0e7dc448)
+![images (14)](https://github.com/user-attachments/assets/6ca9e1cd-53c7-44f3-96cb-6d1dbbfa6b7d)
 
 - **Chapter 1: Modules, Comments & pip**  
   - Writing the first Python program  
@@ -96,6 +96,14 @@
   - **[Advanced Python 1](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2012)**
   - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2012/Practice)**
 
+- **Chapter 13: Advanced Python 2**
+  - Virtual environments
+  - Lambda functions
+  - String methods: `join` and `format`
+  - Functional programming: `map`, `filter`, and `reduce`
+  - **[Advanced Python 2](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2013)**
+  - **[Practice Set](https://github.com/sandeepshrmadev/Python-30-Days-Challenge/tree/main/Chapter%2013/Practice)**
+  
   
 ## Projects
 
